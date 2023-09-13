@@ -28,11 +28,23 @@ Our activities:
 
 ## Bize Ulaşın / Reach us
 
+Bize ulaşın / Contact us:
+
 - Website: [community.cncf.io/istanbul](https://community.cncf.io/istanbul/)
-- Twitter: [@CloudNative_IST](https://twitter.com/CloudNative_IST)
-- LinkedIn: [Cloud Native Istanbul](https://www.linkedin.com/company/cloudnativetr/)
-- Kommunity: [Cloud Native Istanbul](https://kommunity.com/cloud-native-turkiye-kubernetes) 
 - Slack: [CNCF Slack #cloud-native-istanbul](https://cloud-native.slack.com/archives/C05S4NMD3J6)
+
+İçeriklerimizi izleyin / Watch our content:
+
+- Youtube: [@CloudNativeTR](https://www.youtube.com/@cloudnativetr/)
+- Twitch: [@cloudnativeistanbul](https://www.twitch.tv/cloudnativeistanbul)
+
+Bizden haberdar olun / Stay up to date:
+
+- Twitter: [@CloudNative_IST](https://twitter.com/CloudNative_IST)
+- LinkedIn: [Cloud Native Istanbul](https://www.linkedin.com/company/cloudnativeistanbul)
+- Meetup: [Cloud Native Istanbul](https://www.meetup.com/cloudnativeistanbul/)
+- Kommunity: [Cloud Native Istanbul](https://kommunity.com/cloud-native-turkiye-kubernetes) 
+ 
 
 Gelişmeler hakkında güncellemeler, haberler veya cloud-native teknoloji meraklılarıyla iletişim kurmak için bu platformlardan herhangi biri üzerinden bize ulaşmaktan çekinmeyin.
 
