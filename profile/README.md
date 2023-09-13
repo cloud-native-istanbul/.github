@@ -9,7 +9,7 @@ We are an official CNCF community group for Cloud Native enthusiasts in Istanbul
 
 ## Aktivitelerimiz / Our Activities
 
-Cloud Native Istanbul Grubu olarak misyonumuz, İstanbul teknoloji topluluğu içinde bulut tabanlı teknolojilerin ve uygulamalarının benimsenmesini teşvik etmek!
+Cloud Native Istanbul Grubu olarak misyonumuz, İstanbul teknoloji topluluğu içinde cloud-native teknolojilerin ve uygulamalarının benimsenmesini teşvik etmek!
 
 Aktivitelerimiz:
 - [Kubernetes Community Days Turkey 2023](https://event.kcd.istanbul/events/kubernetes-community-days-turkiye-2023-b6e1b944) organizasyonu
@@ -22,14 +22,14 @@ At Cloud Native Istanbul Group, our mission is to foster the adoption of cloud-n
 
 Our activities:
 - Organized [Kubernetes Community Days Turkey 2023](https://event.kcd.istanbul/events/kubernetes-community-days-turkiye-2023-b6e1b944)
-- Organizing [Kubernetes Community Days Turkey 2024](https://github.com/cncf/kubernetes-community-days/issues/501) organization
+- Organizing [Kubernetes Community Days Turkey 2024](https://github.com/cncf/kubernetes-community-days/issues/501)
 - Regular online and physical events
 
 
 ## Bize Ulaşın / Reach us
 
 - Website: [community.cncf.io/istanbul](https://community.cncf.io/istanbul/)
-- Twitter: [@CloudNativeTR](https://twitter.com/CloudNativeTR)
+- Twitter: [@CloudNative_IST](https://twitter.com/CloudNative_IST)
 - LinkedIn: [Cloud Native Istanbul](https://www.linkedin.com/company/cloudnativetr/)
 - Kommunity: [Cloud Native Istanbul](https://kommunity.com/cloud-native-turkiye-kubernetes) 
 - Slack: [CNCF Slack #cloud-native-istanbul](https://cloud-native.slack.com/archives/C05S4NMD3J6)
