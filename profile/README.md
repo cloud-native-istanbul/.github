@@ -1,5 +1,7 @@
 # Cloud Native Istanbul Group
 
+![](https://raw.githubusercontent.com/cloud-native-istanbul/assets/main/logo/logo_800x694.png)
+
 Biz, İstanbul'daki Cloud Native meraklıları için resmi bir CNCF topluluğuyuz.
 
 We are an official CNCF community group for Cloud Native enthusiasts in Istanbul, Turkey.
@@ -65,3 +67,11 @@ Cloud Native Istanbul Group is a community-driven initiative, and we rely on the
 - Become a Sponsor: If your organization is interested in supporting the cloud-native community in Istanbul, consider becoming a sponsor. Your contributions will help us organize more events and provide resources to our members.
 - Spread the Word: Help us grow our community by sharing information about our group, events, and activities with your network.
 - Volunteer: If you're passionate about cloud-native technologies and want to get involved in organizing events or helping with our community initiatives, we'd love to have you as a volunteer.
+
+## Ekibimiz / Our Team
+
+Ekibimizi https://community.cncf.io/istanbul/ adresinde görebilirsiniz.
+
+---
+
+You can see our team at https://community.cncf.io/istanbul/.
